@@ -1,0 +1,81 @@
+.txt{
+  border: 2px solid black;
+  background-color: gray;
+}
+
+
+.sp{
+  border: 2px solid black;
+  background-color: red;
+}
+
+.tb{
+
+    border: 2px solid black;
+  background-color: pink;
+}
+
+.zb{
+
+    border: 2px solid black;
+  background-color: green
+
+
+}
+.hol1{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: magenta;
+   color: green;
+   font-family:  'JetBrains Mono', monospace;
+}
+
+.hol2{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: orange;
+   color: yellow;
+   font-family:  'JetBrains Mono', monospace;
+}
+
+.hol3{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: yellow;
+   color: red;
+   font-family:  'JetBrains Mono', monospace;
+}
+.hol4{
+   border: 2px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: green;
+   color: blue; 
+   font-family:  'JetBrains Mono', monospace;
+}
+
+
+.cl1{
+color: white;
+
+}
+
+
+.cl2{
+color: black;
+
+}
+
+
+.cl3{
+color: red;
+
+}
+
+.zg{
+font-family:  'JetBrains Mono', monospace;
+
+}
